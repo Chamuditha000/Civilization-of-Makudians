@@ -9,7 +9,7 @@ SEE the game trailor HERE
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded YouTube Video</title>
+    <title>SEE the game trailor HERE</title>
 </head>
 <body>
     <h1>Embedded YouTube Video Example</h1>
