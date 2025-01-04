@@ -2,17 +2,17 @@
 3D third person advanture mobile game
 
 
-SEE the game trailor HERE
+SEE the game trailer HERE
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SEE the game trailor HERE</title>
+    <title>SEE the game trailer HERE</title>
 </head>
 <body>
-    <h1>Embedded YouTube Video Example</h1>
+    <h1>Civilization of Makudians - Trailer</h1>
     <div>
         <!-- Replace "VIDEO_ID" with the ID of your YouTube video -->
         <iframe 
