@@ -1,18 +1,67 @@
-# Civilization-of-Makudians
-3D third person advanture mobile game ❤️🤗🔸
- 
+# Civilization-of-Makudians  
+3D Third Person Adventure Mobile Game ❤️🤗🔸  
 
- 🔥 SEE the game trailer HERE 🔥  👇
- 
+---
 
-[![Watch the Video](https://youtu.be/TMAa6QlHYlE?si=UQiwN8kczXKTG0gw/maxresdefault.jpg)](https://youtu.be/TMAa6QlHYlE?si=UQiwN8kczXKTG0gw)
+## 🔥 Game Trailer 🔥  
 
-   
+[![Watch the Trailer](https://img.youtube.com/vi/TMAa6QlHYlE/maxresdefault.jpg)](https://youtu.be/TMAa6QlHYlE?si=UQiwN8kczXKTG0gw)
 
+---
 
+## 🚀 New Update Coming Soon  
 
+A **major update is currently in development** introducing advanced **physics-based gameplay systems** and new features:
 
+- 🌊 Improved **water physics & swimming mechanics**  
+- ⚙️ Enhanced **real-time character physics interactions**  
+- 🎮 New **multiplayer system**  
+- 🧍 More realistic **movement and animation transitions**  
+- 🧠 Better **environment interaction and survival mechanics**  
 
+This update focuses on integrating **real-world physics concepts** into gameplay to create a more immersive experience.
 
-Watch project outcome from following link 👇 </br>
-https://youtube.com/@civilizationofmakudians1726?si=ZH0pganJQpfX3-sZ
+---
+
+## 🖼️ Game Preview  
+
+### 🌍 Environment  
+![Environment](images/environment1.png)
+
+### 🧍 Character System  
+![Character](images/character1.png)
+
+### 🌊 Water & Physics Interaction  
+![Water Physics](images/water1.png)
+
+> 📌 Replace these images with your actual screenshots inside a `/images` folder
+
+---
+
+## 🎥 More Gameplay Videos  
+
+Watch more project updates here 👇  
+https://youtube.com/@civilizationofmakudians1726?si=ZH0pganJQpfX3-sZ  
+
+---
+
+## 🎯 About the Project  
+
+*Civilization of Makudians* is a **physics-based third-person game** developed using Unity.  
+The project explores how **game development can be used to simulate real-world physics systems** in an interactive environment.
+
+---
+
+## ⭐ Status  
+
+✅ Initial version published (Single Player)  
+🚧 Next version in development (Multiplayer + Advanced Physics)  
+
+---
+
+## 👨‍💻 Developer  
+
+Chamuditha Dissanayake  
+Physics Graduate | Game Developer | Computational Physics  
+
+---
