@@ -26,13 +26,12 @@ This update focuses on integrating **real-world physics concepts** into gameplay
 ## 🖼️ Game Preview  
 
 ### 🌍 Environment  
-![Environment](images/environment1.png)
+![Environment](images/environment.png)
 
-### 🧍 Character System  
-![Character](images/character1.png)
+
 
 ### 🌊 Water & Physics Interaction  
-![Water Physics](images/water1.png)
+![Water Physics](images/swimming2.png)
 
 > 📌 Replace these images with your actual screenshots inside a `/images` folder
 
