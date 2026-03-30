@@ -33,7 +33,7 @@ This update focuses on integrating **real-world physics concepts** into gameplay
 ### 🌊 Water & Physics Interaction  
 ![Water Physics](images/swimming2.png)
 
-> 📌 Replace these images with your actual screenshots inside a `/images` folder
+
 
 ---
 
