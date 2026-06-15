@@ -1,5 +1,7 @@
 # Civilization-of-Makudians  
-3D Third Person Adventure Mobile Game ❤️🤗🔸  
+3D Third Person Adventure Mobile Game 
+A Physics-Based Third-Person Simulation Environment Using Unity
+❤️🤗🔸  
 
 ---
 
